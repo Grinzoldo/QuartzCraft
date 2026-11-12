@@ -1,0 +1,5 @@
+name: QuartzCraft
+version: 1.0.0
+main: de.quartzcraft.QuartzCraft
+api-version: '26.1'
+description: Craftet aus 1 Quarzblock wieder 4 Netherquarz.
